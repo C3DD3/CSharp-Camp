@@ -1,0 +1,7 @@
+C:\Users\Eyup\desktop\CSharpEgitimKampi\Şuana Kadar ki Konularla Genel Örnek\bin\Debug\Şuana Kadar ki Konularla Genel Örnek.exe.config
+C:\Users\Eyup\desktop\CSharpEgitimKampi\Şuana Kadar ki Konularla Genel Örnek\bin\Debug\Şuana Kadar ki Konularla Genel Örnek.exe
+C:\Users\Eyup\desktop\CSharpEgitimKampi\Şuana Kadar ki Konularla Genel Örnek\bin\Debug\Şuana Kadar ki Konularla Genel Örnek.pdb
+C:\Users\Eyup\desktop\CSharpEgitimKampi\Şuana Kadar ki Konularla Genel Örnek\obj\Debug\Şuana Kadar ki Konularla Genel Örnek.csproj.AssemblyReference.cache
+C:\Users\Eyup\desktop\CSharpEgitimKampi\Şuana Kadar ki Konularla Genel Örnek\obj\Debug\Şuana Kadar ki Konularla Genel Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Eyup\desktop\CSharpEgitimKampi\Şuana Kadar ki Konularla Genel Örnek\obj\Debug\Şuana Kadar ki Konularla Genel Örnek.exe
+C:\Users\Eyup\desktop\CSharpEgitimKampi\Şuana Kadar ki Konularla Genel Örnek\obj\Debug\Şuana Kadar ki Konularla Genel Örnek.pdb
