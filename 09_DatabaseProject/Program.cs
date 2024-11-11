@@ -29,7 +29,7 @@ namespace _09_DatabaseProject
             tableNumber = Console.ReadLine();
             Console.WriteLine("------------------------------------------------------");
 
-            MySqlConnection mySqlConnection = new MySqlConnection("Server=localhost; Database=EgitimKampiDb; Uid=root; Pwd=Facebok521302001;");
+            MySqlConnection mySqlConnection = new MySqlConnection("Server=localhost; Database=EgitimKampiDb; Uid=kullanıcıAdi; Pwd=sifre;");
             mySqlConnection.Open();
             MySqlCommand mySqlCommand = new MySqlCommand("Select * From TblCategory", mySqlConnection); 
             MySqlDataAdapter adapter = new MySqlDataAdapter(mySqlCommand);
