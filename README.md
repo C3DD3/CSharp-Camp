@@ -37,6 +37,24 @@ Bu projede veritabanı bağlantısı kurarak Db den veriler çektik. Kullanıcı
 ✨ Proje 10: Menü Sipariş İşlem Paneli
 Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirerek bir veritabanı ile etkileşim sağladım. SQL bağlantısı kullanarak ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini uyguladım. Proje sayesinde SQL komutlarıyla veritabanına veri kaydetme ve sorgulama işlemlerini pekiştirmiş oldum. Bu kapsamda, ürün bilgilerini düzenleyerek daha dinamik bir yapı elde etmeyi öğrendim. 📊
 
+✨ Proje 11: EfTravel İstatistik Paneli
+![image](https://github.com/user-attachments/assets/badfc9b7-eb73-4e0d-8caa-c5669e6c58b5)
+Bu projede, Entity Framework kullanarak bir seyahat veri tabanındaki bilgileri analiz eden ve görselleştiren bir istatistik paneli geliştirdim. Windows Forms tabanlı bu uygulama, kullanıcıya çeşitli istatistikleri anlık olarak sunarak veriye dayalı kararlar almayı kolaylaştırıyor.
+
+Proje Özellikleri:
+✅ Toplam lokasyon sayısı, kapasite, rehber sayısı gibi genel istatistiklerin hesaplanması
+✅ Ortalama kapasite ve fiyat gibi değerlerin dinamik olarak gösterilmesi
+✅ Belirli bir şehir veya ülkeye ait verilerin filtrelenmesi
+✅ En yüksek kapasiteye ve fiyata sahip destinasyonların belirlenmesi
+✅ Rehberlerin sorumlu olduğu tur sayılarının analiz edilmesi
+
+Kazandığım Yetkinlikler:
+🔹 Entity Framework ile veri tabanına bağlantı kurma ve etkin sorgulamalar gerçekleştirme
+🔹 LINQ kullanarak gelişmiş filtreleme ve analiz işlemleri yapma
+🔹 Windows Forms ile kullanıcı dostu ve görsel olarak zengin bir arayüz tasarlama
+🔹 Sorgu sonuçlarını anlamlı istatistiklere dönüştürerek işlevsel bir analiz paneli oluşturma
+
+
 #ENG
 
 ✨ Project 1: Hello World! In this project, we performed the fundamental print operation of the software world by printing the words "Hello World" using the Console.WriteLine() command. 🌍
@@ -59,5 +77,23 @@ Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleşti
 
 ✨ Project 10: Menu Order Process Panel
 In this project, I interacted with a database by performing basic CRUD (Create, Read, Update, Delete) operations. I implemented adding, listing, updating and deleting product and category information using SQL connection. Thanks to the project, I reinforced the process of saving data to the database and querying it with SQL commands. In this context, I learned to obtain a more dynamic structure by organizing product information. 📊
+
+✨ Project 11: EfTravel Statistics Panel
+![image](https://github.com/user-attachments/assets/3e866aa4-f020-41d6-908a-8671d562f2d4)
+
+In this project, I developed a statistics panel that analyzes and visualizes information in a travel database using Entity Framework. This Windows Forms-based application makes it easier to make data-based decisions by instantly presenting various statistics to the user.
+
+Project Features:
+✅ Calculation of general statistics such as total number of locations, capacity, number of guides
+✅ Dynamic display of values ​​such as average capacity and price
+✅ Filtering data for a specific city or country
+✅ Determination of destinations with the highest capacity and price
+✅ Analyzing the number of tours for which the guides are responsible
+
+Competencies I Gained:
+🔹 Connecting to the database and performing effective queries with Entity Framework
+🔹 Advanced filtering and analysis using LINQ
+🔹 Designing a user-friendly and visually rich interface with Windows Forms
+🔹 Creating a functional analysis panel by converting query results into meaningful statistics
  
 
