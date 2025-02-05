@@ -54,6 +54,31 @@ Kazandığım Yetkinlikler:
 🔹 Windows Forms ile kullanıcı dostu ve görsel olarak zengin bir arayüz tasarlama
 🔹 Sorgu sonuçlarını anlamlı istatistiklere dönüştürerek işlevsel bir analiz paneli oluşturma
 
+✨ FinancialCrm
+
+Bu projede, kişisel finans yönetimi için kapsamlı bir CRM uygulaması geliştirilmiştir. Uygulama, kullanıcıların finansal durumlarını düzenli olarak takip etmelerini sağlar.
+
+Kullanıcılar; Banka bakiyelerini, Faturalarını, Harcamalarını ve Banka hareketlerini yönetebilir ve analiz edebilir.
+
+Kullanılan Teknolojiler: 
+
+Backend:
+.NET Framework
+C# programlama dili
+SQL Server
+ADO.NET Entity Data Model
+LINQ Sorguları
+DB First Yaklaşımı
+
+Frontend:
+WinForms (Form arayüzü ve bileşenleri)
+FontAwesome.Sharp paketi
+
+![image](https://github.com/user-attachments/assets/15c4f248-7fe8-4d0a-b366-cfefd795bd6a)
+![image](https://github.com/user-attachments/assets/24c35055-f5ae-4189-a0ac-7a039bb15302)
+
+
+
 
 #ENG
 
@@ -95,5 +120,27 @@ Competencies I Gained:
 🔹 Advanced filtering and analysis using LINQ
 🔹 Designing a user-friendly and visually rich interface with Windows Forms
 🔹 Creating a functional analysis panel by converting query results into meaningful statistics
+
+✨ FinancialCrm
+In this project, a comprehensive CRM application for personal finance management was developed. The app allows users to keep track of their financial situation on a regular basis.
+
+Users; Can manage and analyze bank balances, Invoices, Expenses and Bank transactions.
+
+Technologies Used: 
+
+Backend:
+.NET Framework
+C# programming language
+SQL Server
+ADO.NET Entity Data Model
+LINQ Queries
+DB First Approach
+
+Frontend:
+WinForms (Form interface and components)
+FontAwesome.Sharp package
+
+![image](https://github.com/user-attachments/assets/15c4f248-7fe8-4d0a-b366-cfefd795bd6a)
+![image](https://github.com/user-attachments/assets/24c35055-f5ae-4189-a0ac-7a039bb15302)
  
 
