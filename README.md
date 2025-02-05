@@ -34,6 +34,9 @@ Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan al
 ✨ Proje 9: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
 Bu projede veritabanı bağlantısı kurarak Db den veriler çektik. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama ile pratik yapmış olduk. MySqlConnection ve MySqlCommand sınıflarıyla veritabanına bağlanıp, sorgular çalıştırmayı deneyimledim. Bu projeyle birlikte veritabanı işlemleri ve veri akışı hakkında önemli bilgiler edindik. 💾
 
+✨ Proje 10: Menü Sipariş İşlem Paneli
+Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirerek bir veritabanı ile etkileşim sağladım. SQL bağlantısı kullanarak ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini uyguladım. Proje sayesinde SQL komutlarıyla veritabanına veri kaydetme ve sorgulama işlemlerini pekiştirmiş oldum. Bu kapsamda, ürün bilgilerini düzenleyerek daha dinamik bir yapı elde etmeyi öğrendim. 📊
+
 #ENG
 
 ✨ Project 1: Hello World! In this project, we performed the fundamental print operation of the software world by printing the words "Hello World" using the Console.WriteLine() command. 🌍
@@ -53,5 +56,8 @@ Bu projede veritabanı bağlantısı kurarak Db den veriler çektik. Kullanıcı
 ✨ Project 8: Functions that Return Values In the final project, we worked with methods that return values. We created functions that processed data obtained from users and returned results. This project gave us practical experience with more complex operations. 🎗️
 
 ✨ Project 9: Database-Based Product-Category Information System In this project, we established a database connection to fetch data from a database. We created an application that lists relevant information based on the user's choice of table. We used MySqlConnection and MySqlCommand classes to connect to the database and execute queries, gaining important insights into database operations and data flow. 💾
+
+✨ Project 10: Menu Order Process Panel
+In this project, I interacted with a database by performing basic CRUD (Create, Read, Update, Delete) operations. I implemented adding, listing, updating and deleting product and category information using SQL connection. Thanks to the project, I reinforced the process of saving data to the database and querying it with SQL commands. In this context, I learned to obtain a more dynamic structure by organizing product information. 📊
  
 
